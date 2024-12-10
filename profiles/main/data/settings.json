@@ -1,0 +1,49 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.cursorStyle": "block-outline",
+    "editor.fontFamily": "'Panic Sans', Menlo, Monaco, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 10,
+    "editor.largeFileOptimizations": false,
+    "editor.linkedEditing": true,
+    "editor.suggestSelection": "first",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.decorations.enabled": false,
+    "html.autoClosingTags": true,
+    "javascript.autoClosingTags": true,
+    "julia.enableTelemetry": true,
+    "julia.symbolCacheDownload": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.languageServer": "Pylance",
+    "redhat.telemetry.enabled": false,
+    "search.useIgnoreFiles": false,
+    "security.workspace.trust.enabled": true,
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "typescript.autoClosingTags": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Dracula",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "[julia]": {
+        "editor.defaultFormatter": "julialang.language-julia"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false
+}
